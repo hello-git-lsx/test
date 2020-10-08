@@ -1,0 +1,30 @@
+Dear  Shengxin,
+
+You are enrolled in the course 158.256 Web Applicaton Design.
+
+For this paper have been given access to a blank SFS website where you will be publishing web pages and web sites that you will be creating in Tutorials and the Web Application Design Project. 
+
+Below you find your password for accessing your web site using SSH and SCP clients such as FileZilla and WinSCP or you could just use the web-based file manager interface at https://sfs-webdev.massey.ac.nz:20000/.
+
+Please note that this password does not replace the password you use to access Massey University services (such as Stream or MyMassey).
+
+Your webspace is contained in a folder named "web". You must upload your website into this folder under appropriate sub-folders. Any file outside this folder is not part of the website.
+
+You will also be given a database account (database host server, username, password and database name) for your website. The database could also be accessed and managed via its web-based interface at https://sfs-webdev.massey.ac.nz:20000/. Note that your website is accessible globally but does not use www.
+
+Should you have questions please contact the systems administrator (M.Codeniera@massey.ac.nz).
+
+
+For further explanation please see the Stream site for 158.256.
+
+
+Password: AonWimj4 
+URL: https://sfs-webdev.massey.ac.nz/site1361
+
+****************
+Database Account
+****************
+Host host: localhost
+Database name: db256_19029750
+Username: n19029750
+Password: same as above
